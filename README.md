@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charith-j
+- 👋 Hi, I’m @charith-j - Charith Jayasekara
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PHP Frameworks
 - 💞️ I’m looking to collaborate on a variety of projects.
