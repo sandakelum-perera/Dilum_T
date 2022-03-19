@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PHP Frameworks
 - 💞️ I’m looking to collaborate on a variety of projects.
+This is a new line
+
 
 <!---
 charith-j/charith-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
